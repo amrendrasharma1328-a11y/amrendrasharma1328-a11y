@@ -47,10 +47,11 @@ I’m always open to collaborations, project discussions, and opportunities in s
 
 ---
 
+
 ### 🌐 Quick Reach  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/amrendra-sharma-5162a837b)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail)](mailto:amrendra1496@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/amrendrasharma1328-a11y)  
 
 ---
