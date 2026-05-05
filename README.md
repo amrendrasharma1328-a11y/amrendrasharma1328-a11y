@@ -10,17 +10,23 @@ I am a Full Stack Developer and Competitive Programmer with a strong foundation 
 
 ## 🛠️ Technical Skills  
 
-- 💻 Languages: C++, JavaScript, Python  
+- 💻 Languages: C++, JavaScript, C,TypeScript 
 - 🌐 Frontend: HTML, CSS, Tailwind CSS, Bootstrap, React.js  
 - ⚙️ Backend: Node.js, Express.js, REST APIs, JWT Authentication, Firebase  
 - 🗄️ Databases: MongoDB  
 
 ---
 
-## 📊 GitHub Statistics  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrendrasharma1328-a11y&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amrendrasharma1328-a11y)
+## 🚀 Featured Projects  
+
+🔹 **Real-Time Code Editor**  
+A collaborative real-time code editor that allows multiple users to write and edit code simultaneously. Implemented live synchronization using Socket.IO for seamless communication.  
+🛠️ Tech: React.js, Node.js, Express.js, Socket.IO  
+
+🔹 **DevTinder (Ongoing)**  
+A developer-focused networking platform inspired by modern social matching systems, aimed at connecting like-minded developers based on skills and interests. Currently under development with exciting features in progress.  
+🛠️ Tech: React.js, Node.js, Express.js, MongoDB  
 
 ---
 
@@ -35,8 +41,8 @@ I am a Full Stack Developer and Competitive Programmer with a strong foundation 
 
 I’m always open to collaborations, project discussions, and opportunities in software development and AI/ML. Feel free to reach out 👇  
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://in.linkedin.com/in/amrendra-sharma-5162a837b  
+- 📧 Email: amrendra1496@gmail.com 
 - 🐙 GitHub: https://github.com/amrendrasharma1328-a11y  
 
 ---
