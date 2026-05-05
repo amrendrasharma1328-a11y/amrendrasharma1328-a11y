@@ -21,7 +21,8 @@ I am a Full Stack Developer and Competitive Programmer with a strong foundation 
 ## 🚀 Featured Projects  
 
 🔹 **Real-Time Code Editor**  
-A collaborative real-time code editor that allows multiple users to write and edit code simultaneously. Implemented live synchronization using Socket.IO for seamless communication.  
+A collaborative real-time code editor that allows multiple users to write and edit code simultaneously. Implemented live synchronization using Socket.IO for seamless communication.
+-https://codecast-real-time-code-editor-92bs.onrender.com/
 🛠️ Tech: React.js, Node.js, Express.js, Socket.IO  
 
 🔹 **DevTinder (Ongoing)**  
