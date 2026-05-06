@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate (CSE '29) at NIT Bhopal  
 
-I am a Full Stack Developer and Competitive Programmer with a strong foundation in problem solving and core computer science concepts. I enjoy designing and building scalable, efficient, and real-world applications.  
+I am a Full Stack Developer and Competitive Programmer . I enjoy designing and building scalable, efficient, and real-world applications.  
 
 🤖 I have a growing interest in Artificial Intelligence and Machine Learning, and I continuously explore new technologies to expand my skill set and build impactful solutions.  
 
