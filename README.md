@@ -105,10 +105,9 @@ A developer-focused networking platform inspired by modern social matching syste
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amrendrasharma1328-a11y/amrendrasharma1328-a11y/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/amrendrasharma1328-a11y/amrendrasharma1328-a11y/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
----
 
 # 🤝 Let's Connect
 
