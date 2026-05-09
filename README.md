@@ -17,7 +17,6 @@ Passionate about building scalable web applications, solving DSA problems, and e
 
 - 🎓 Computer Science Undergraduate at **NIT Bhopal**
 - 💻 Full Stack Developer & Competitive Programmer
-- 🌱 Currently learning **AI/ML** and advanced backend systems
 - ⚡ Love building real-world scalable applications
 - 🎯 Focused on improving **DSA**, development, and problem-solving skills
 
