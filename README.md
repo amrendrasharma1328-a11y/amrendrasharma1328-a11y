@@ -1,8 +1,13 @@
 
+
 <h1 align="center">Hi 👋, I'm Amrendra Sharma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Competitive+Programmer;AI%2FML+Enthusiast&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amrendrasharma1328-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">🚀 CSE Undergraduate (2029) at NIT Bhopal</h3>
