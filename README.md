@@ -1,15 +1,23 @@
 
 
-<h1 align="center">Hi 👋, I'm Amrendra Sharma</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Competitive+Programmer;AI%2FML+Enthusiast&center=true&width=500&height=50">
-</p>
-
+<!-- <h1 align="center">Hi 👋, I'm Amrendra Sharm</h1> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrendrasharma1328-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
+
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey!+I'm+Amrendra+Sharma;🚀+Full+Stack+Developer;📱+Competative+Programmer;🤖+AI+%26+ML+Enthusiast;💡+Building+Tomorrow's+Solutions" alt="Typing SVG" />
+  
+</div>
+
+<!-- Separator with style -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="380" alt="Developer Animation"/>
+</div>
 <h3 align="center">🚀 CSE Undergraduate (2029) at NIT Bhopal</h3>
 
 <p align="center">
