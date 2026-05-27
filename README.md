@@ -113,6 +113,15 @@ A developer-focused networking platform inspired by modern social matching syste
 </p>
 
 ---
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
 
 # 🐍 GitHub Contribution Snake
 
