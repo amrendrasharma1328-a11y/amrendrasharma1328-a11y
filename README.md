@@ -50,21 +50,6 @@ https://codecast-real-time-code-editor-92bs.onrender.com/
 
 ---
 
-## 🔹 DevTinder (Ongoing)
-A developer-focused networking platform inspired by modern social matching systems, designed to connect developers based on skills and interests.
-
-🛠️ Tech Stack:  
-`React.js` `Node.js` `Express.js` `MongoDB`
-
----
-## 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
