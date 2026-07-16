@@ -1,5 +1,4 @@
 
-
 <!-- <h1 align="center">Hi 👋, I'm Amrendra Sharm</h1> -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrendrasharma1328-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
