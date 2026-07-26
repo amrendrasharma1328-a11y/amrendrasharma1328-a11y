@@ -34,21 +34,6 @@ Passionate about building scalable web applications, solving DSA problems, and e
 
 ---
 
-
-
-# 🚀 Featured Projects
-
-## 🔹 Real-Time Code Editor
-A collaborative real-time code editor where multiple users can write and edit code simultaneously with live synchronization using Socket.IO.
-
-🌐 Live Demo:  
-https://codecast-real-time-code-editor-92bs.onrender.com/
-
-🛠️ Tech Stack:  
-`React.js` `Node.js` `Express.js` `Socket.IO`
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
