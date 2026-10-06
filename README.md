@@ -1,88 +1,205 @@
 
-<!-- <h1 align="center">Hi 👋, I'm Amrendra Sharm</h1> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrendrasharma1328-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-
+<!-- ===================================================== -->
+<!--                    HEADER / INTRO                     -->
+<!-- ===================================================== -->
 
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=1000&height=80&lines=👋+Hey!+I'm+Amrendra+Sharma;🚀+Full+Stack+Developer;📱+Competative+Programmer;🤖+AI+%26+ML+Enthusiast;💡+Building+Tomorrow's+Solutions" alt="Typing SVG" />
-  
+
+# 👋 Hey, I'm Amrendra Sharma
+
+### 🚀 Full-Stack Developer • Competitive Programmer • AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Solving+DSA+%26+Competitive+Programming;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amrendrasharma1328-a11y&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
-<!-- Separator with style -->
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science undergraduate at NIT Bhopal**, passionate about software development, problem solving, and emerging technologies.
+
+I enjoy transforming ideas into **scalable, practical, and user-focused applications** while continuously improving my fundamentals in **Data Structures & Algorithms, System Design, and AI/ML**.
+
+- 🎓 **CSE Undergraduate — NIT Bhopal** | Expected Graduation: **2029**
+- 💻 Full-Stack Developer
+- 🧠 Competitive Programmer & DSA Enthusiast
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🚀 Interested in building impactful real-world products
+- 🌱 Currently strengthening **DSA, Backend Development & AI/ML**
+- 🤝 Open to collaborations, internships, and interesting technical projects
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🧠  Data Structures & Algorithms                    │
+│      Improving problem-solving & competitive skills  │
+│                                                      │
+│  🌐  Full-Stack Development                          │
+│      Building scalable and production-ready apps    │
+│                                                      │
+│  🤖  Artificial Intelligence                         │
+│      Exploring ML concepts & intelligent systems    │
+│                                                      │
+│  ☁️  Backend & System Design                         │
+│      Learning scalable architectures & APIs         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 More projects are continuously being built and added here.
+
+| Project | Description | Tech |
+|---|---|---|
+| 🚀 **Project One** | Scalable full-stack application solving a real-world problem | React • Node.js • MongoDB |
+| 🤖 **Project Two** | AI/ML based application exploring intelligent automation | Python • ML |
+| 🧠 **Project Three** | DSA / competitive programming solutions | C++ |
+| 🌐 **Project Four** | Modern web application with responsive UI | Next.js • Tailwind |
+
+📂 **Explore all my projects:**  
+[![GitHub](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/amrendrasharma1328-a11y?tab=repositories)
+
+---
+
+# 🧠 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+> 💡 I regularly practice **Data Structures, Algorithms, problem solving, and competitive programming**.
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="380" alt="Developer Animation"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amrendrasharma1328-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrasharma1328-a11y&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
-<h3 align="center">🚀 CSE Undergraduate (2029) at NIT Bhopal</h3>
 
-<p align="center">
-Passionate about building scalable web applications, solving DSA problems, and exploring the world of AI/ML.
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🌟 About Me
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrasharma1328-a11y&theme=tokyonight&hide_border=true" width="70%"/>
 
-- 🎓 Computer Science Undergraduate at **NIT Bhopal**
-- 💻 Full Stack Developer & Competitive Programmer
-- ⚡ Love building real-world scalable applications
-- 🎯 Focused on improving **DSA**, development, and problem-solving skills
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrendrasharma1328-a11y&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrasharma1328-a11y&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrasharma1328-a11y&layout=compact&theme=tokyonight" />
-</p>
-
----
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
+</div>
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amrendrasharma1328-a11y/amrendrasharma1328-a11y/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/amrendrasharma1328-a11y/amrendrasharma1328-a11y/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+
+
+
+---
 
 # 🤝 Let's Connect
 
-I’m always open to collaborations, project discussions, and opportunities in software development and AI/ML.
+I'm always interested in:
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/amrendra-sharma-5162a837b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+- 💡 Collaborating on interesting projects
+- 🚀 Building innovative products
+- 🧠 Discussing DSA & software engineering
+- 🤖 Exploring AI/ML ideas
+- 💼 Internship & software development opportunities
 
-  <a href="mailto:amrendra1496@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail"/>
-  </a>
+<div align="center">
 
-  <a href="https://github.com/amrendrasharma1328-a11y">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="https://in.linkedin.com/in/amrendra-sharma-5162a837b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:amrendra1496@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amrendrasharma1328-a11y">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
+<div align="center">
+
+### 💭 *"Build. Break. Learn. Improve. Repeat."*
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+</div>
