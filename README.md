@@ -30,7 +30,6 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 - 🧠 Competitive Programmer & DSA Enthusiast
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🚀 Interested in building impactful real-world products
-- 🌱 Currently strengthening **DSA, Backend Development & AI/ML**
 - 🤝 Open to collaborations, internships, and interesting technical projects
 
 ---
