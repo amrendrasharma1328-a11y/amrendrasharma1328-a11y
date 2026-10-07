@@ -25,7 +25,7 @@ I'm a **Computer Science undergraduate at NIT Bhopal**, passionate about softwar
 
 I enjoy transforming ideas into **scalable, practical, and user-focused applications** while continuously improving my fundamentals in **Data Structures & Algorithms, System Design, and AI/ML**.
 
-- 🎓 **CSE Undergraduate — NIT Bhopal** | Expected Graduation: **2029**
+- 🎓 **CSE Undergraduate — NIT Bhopal** |  Graduation Year: **2029**
 - 💻 Full-Stack Developer
 - 🧠 Competitive Programmer & DSA Enthusiast
 - 🤖 Exploring Artificial Intelligence & Machine Learning
