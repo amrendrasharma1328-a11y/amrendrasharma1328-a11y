@@ -39,61 +39,31 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,r" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase,fastapi" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,swagger,jupitor" />
 </p>
-
----
-
-## 🚀 What I'm Currently Working On
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🧠  Data Structures & Algorithms                    │
-│      Improving problem-solving & competitive skills  │
-│                                                      │
-│  🌐  Full-Stack Development                          │
-│      Building scalable and production-ready apps    │
-│                                                      │
-│  🤖  Artificial Intelligence                         │
-│      Exploring ML concepts & intelligent systems    │
-│                                                      │
-│  ☁️  Backend & System Design                         │
-│      Learning scalable architectures & APIs         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
 
 ---
 
 ## 📌 Featured Projects
 
-> 🚧 More projects are continuously being built and added here.
-
-| Project | Description | Tech |
-|---|---|---|
-| 🚀 **Project One** | Scalable full-stack application solving a real-world problem | React • Node.js • MongoDB |
-| 🤖 **Project Two** | AI/ML based application exploring intelligent automation | Python • ML |
-| 🧠 **Project Three** | DSA / competitive programming solutions | C++ |
-| 🌐 **Project Four** | Modern web application with responsive UI | Next.js • Tailwind |
 
 📂 **Explore all my projects:**  
 [![GitHub](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/amrendrasharma1328-a11y?tab=repositories)
