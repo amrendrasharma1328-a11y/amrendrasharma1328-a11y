@@ -115,23 +115,29 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 
 ---
 
+
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
+
 ---
+
+
 
 # 🧊 3D Contribution Calendar
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution Calendar" width="100%"/>
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub Contribution Calendar"/>
 
 </div>
+
 
 ---
 
