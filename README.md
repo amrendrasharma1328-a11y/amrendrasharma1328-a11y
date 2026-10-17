@@ -1,4 +1,5 @@
 
+
 <!-- ===================================================== -->
 <!--                    HEADER / INTRO                     -->
 <!-- ===================================================== -->
@@ -25,7 +26,7 @@ I'm a **Computer Science undergraduate at NIT Bhopal**, passionate about softwar
 
 I enjoy transforming ideas into **scalable, practical, and user-focused applications** while continuously improving my fundamentals in **Data Structures & Algorithms, System Design, and AI/ML**.
 
-- 🎓 **CSE Undergraduate — NIT Bhopal** |  Graduation Year: **2029**
+- 🎓 **CSE Undergraduate — NIT Bhopal** | Graduation Year: **2029**
 - 💻 Full-Stack Developer
 - 🧠 Competitive Programmer & DSA Enthusiast
 - 🤖 Exploring Artificial Intelligence & Machine Learning
@@ -39,34 +40,36 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,r" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,r" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase,fastapi" alt="Backend and Databases"/>
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,swagger,jupitor" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,swagger,jupyter" alt="Tools and Technologies"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
+📂 **Explore all my projects:**
 
-📂 **Explore all my projects:**  
-[![GitHub](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/amrendrasharma1328-a11y?tab=repositories)
+<a href="https://github.com/amrendrasharma1328-a11y?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github" alt="View All Projects"/>
+</a>
 
 ---
 
@@ -75,15 +78,15 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 <p align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
 </p>
@@ -96,9 +99,9 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amrendrasharma1328-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amrendrasharma1328-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrasharma1328-a11y&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrasharma1328-a11y&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -106,7 +109,7 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrasharma1328-a11y&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrasharma1328-a11y&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -116,7 +119,17 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amrendrasharma1328-a11y&bg_color=0D1117&color=58A6FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
@@ -129,11 +142,6 @@ I enjoy transforming ideas into **scalable, practical, and user-focused applicat
 <img src="https://raw.githubusercontent.com/amrendrasharma1328-a11y/amrendrasharma1328-a11y/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
-
-
-
 
 ---
 
@@ -150,15 +158,15 @@ I'm always interested in:
 <div align="center">
 
 <a href="https://in.linkedin.com/in/amrendra-sharma-5162a837b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:amrendra1496@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/amrendrasharma1328-a11y">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
